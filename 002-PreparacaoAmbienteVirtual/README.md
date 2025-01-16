@@ -1,5 +1,6 @@
 # Configurando Ambientes Virtuais com Pyenv
 
+
 ## Introdução ao Pyenv
 
 O **Pyenv** é uma ferramenta que permite gerenciar múltiplas versões do Python em um único sistema. Com ele, é possível instalar, alternar e configurar versões específicas do Python de forma global (para todo o sistema) ou local (para um diretório específico). Isso é especialmente útil ao trabalhar em diferentes projetos que requerem versões distintas do Python.
